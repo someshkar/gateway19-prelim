@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gateway19-prelim/static/css/main.5b5b2c3e.chunk.css",
+    "main.js": "/gateway19-prelim/static/js/main.040de93b.chunk.js",
+    "main.js.map": "/gateway19-prelim/static/js/main.040de93b.chunk.js.map",
+    "runtime~main.js": "/gateway19-prelim/static/js/runtime~main.e1d634d4.js",
+    "runtime~main.js.map": "/gateway19-prelim/static/js/runtime~main.e1d634d4.js.map",
+    "static/js/2.db25d78a.chunk.js": "/gateway19-prelim/static/js/2.db25d78a.chunk.js",
+    "static/js/2.db25d78a.chunk.js.map": "/gateway19-prelim/static/js/2.db25d78a.chunk.js.map",
+    "index.html": "/gateway19-prelim/index.html",
+    "precache-manifest.11fb99efd8187ce31b2c302a0fe1051b.js": "/gateway19-prelim/precache-manifest.11fb99efd8187ce31b2c302a0fe1051b.js",
+    "service-worker.js": "/gateway19-prelim/service-worker.js",
+    "static/css/main.5b5b2c3e.chunk.css.map": "/gateway19-prelim/static/css/main.5b5b2c3e.chunk.css.map"
+  }
+}
