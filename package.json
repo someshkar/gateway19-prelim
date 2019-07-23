@@ -2,8 +2,10 @@
   "name": "gateway-2019-prelim-exunclan",
   "version": "0.1.0",
   "private": true,
+  "author": "Somesh Kar",
   "dependencies": {
     "@reach/router": "^1.2.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
@@ -12,6 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "react-scripts build && gh-pages --dist build --branch gh-pages",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
